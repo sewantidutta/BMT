@@ -1,0 +1,25 @@
+https://www.bmtstudweld.com/
+
+Things not done:
+
+nav bar logo resizing
+tagged the ids with navbar elements, but as the nav bar is bit thick, the parts are going below it
+wasn't able to find clients in home page of previous web page, hence didn't add client part
+didn't make 'contact us' in nav bar as already added contact details there
+
+
+didn't add youtube video below about section
+image and style in new page was in portrait mode and in old one was in landscape mode, hence didn't add all of them, just added one image
+
+"We Supply Quality Industrial Stud Welding System in Pune, Maharashtra" included this text in about section subtitle
+
+Didn't add the div "The best brands for all your industrial needs.
+We are engaged in manufacturing and supplying of all type of studs and ceramic ferrules."
+"What our Happy Client's Says"
+"| We deals in: Superior quality products | Timely deliveries |
+Proven execution of small as well as large batch orders | Customer focused approach."
+
+In the footer :
+kept "our services" part
+
+
